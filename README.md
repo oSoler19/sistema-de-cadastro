@@ -5,5 +5,5 @@
 How to Run:
 
 ```
-npm install react
+node app.js
 ```
